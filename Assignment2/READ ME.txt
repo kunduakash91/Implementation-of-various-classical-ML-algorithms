@@ -1,0 +1,5 @@
+Instructions to run the code:
+1)Open Jupyter Notebook or any other application like Cantor (Linux) or Google Colaboratory (Web)
+2)Copy the code from the .py files seperately for Q1 and Q2.
+3)Run the code in the notebook segment by segment.
+
